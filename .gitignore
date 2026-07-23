@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 node_modules/
 dist/
 build/
 .env
 *.log
+=======
+﻿bin/
+obj/
+.vs/
+>>>>>>> a3fb64f3add5954efc98cc22f843587ba646c35c
